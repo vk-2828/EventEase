@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@import "react-toastify/dist/ReactToastify.css";
+
+
+@theme {
+  --color-peach-light: #FFD3AC;
+  --color-peach-pink: #FFB5AB;
+  --color-peach-dark: #E39A7B;
+  --color-peach-gold: #DBB06B;
+}
